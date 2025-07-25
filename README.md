@@ -13,7 +13,7 @@ Le robot turtle trace successivement :
 🔺 Un triangle  
 💎 Un losange  
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - Nœud ROS2 en Python
 - Utilisation de :
